@@ -20,8 +20,8 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=xiaoyang-xyc&theme=crt&screen_effect=true&pixelate_avatar=true
-            dist/github-stats-light?username=xiaoyang-xyc&theme=journey&dithering=true&pixelate_avatar=true
+            dist/github-stats?username=Kur1sulab&theme=crt&screen_effect=true&pixelate_avatar=true
+            dist/github-stats-light?username=Kur1sulab&theme=journey&dithering=true&pixelate_avatar=true
 
       - name: push cards to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
