@@ -6,6 +6,7 @@ Blog [xycovo.com](https://xycovo.com) · Mail xuyichen2025@outlook.com
 
 | 项目 | 说明 |
 |------|------|
+| [acumen](https://github.com/Kur1sulab/acumen) | 鉴微 Acumen：漏扫产物本地看板。nuclei / xray / nmap / nessus / 报告 MD 自动归一化、去重合并、按资产聚合，可改状态、导 CSV / MD。零依赖（Python 标准库 + 原生前端），单机离线可用，拷进去就能跑 |
 | [src-recon-tool](https://github.com/Kur1sulab/src-recon-tool) | SRC 信息收集工具：子域枚举、资产测绘、指纹识别、YAML POC 模板引擎。单次全流程约 30 分钟，EDUSRC 实战在用 |
 | [blackbox](https://github.com/Kur1sulab/blackbox) | 黑盒安全测试技能集，140 个渗透 playbook，按攻击链组织 |
 | [whitebox](https://github.com/Kur1sulab/whitebox) | 白盒代码审计技能集，35 个源码审计、逆向、密码分析 playbook |
