@@ -6,7 +6,7 @@ Blog [xycovo.com](https://xycovo.com) · Mail xuyichen2025@outlook.com
 
 | 项目 | 说明 |
 |------|------|
-| [acumen](https://github.com/Kur1sulab/acumen) | 鉴微 Acumen：本地漏扫。填目标 → 开扫 → 命中入账 → 导报告，只跑在 `127.0.0.1`，不联网 |
+| [kara](https://github.com/Kur1sulab/kara) | 空境 Kara：本地漏扫。填目标 → 开扫 → 命中入账 → 复验 → 导报告，只跑在 `127.0.0.1`，不联网 |
 | [atlas](https://github.com/Kur1sulab/atlas) | 阿卡夏 Atlas（阿卡夏记录）：资产测绘引擎。子域 / 端口 / 指纹 / 敏感路径 / API 未授权 / JS 端点，带本地 Web 控制台 |
 | [blackbox](https://github.com/Kur1sulab/blackbox) | 黑盒测试技能集，144 个渗透 playbook |
 | [whitebox](https://github.com/Kur1sulab/whitebox) | 白盒审计技能集，38 个审计 / 逆向 / 密码分析 playbook |
