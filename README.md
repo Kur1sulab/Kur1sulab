@@ -1,8 +1,8 @@
+安全研究员 / SRC 猎人（EDUSRC · 补天 · CNVD）。黑盒渗透与白盒审计，把挖洞方法论整理成 AI Agent 可直接加载的技能库，实战复盘发在博客。
+
 Blog [xycovo.com](https://xycovo.com) · Mail xuyichen2025@outlook.com
 
 ## 产品
-
-五条独立产品线，本地优先：能单二进制就不装运行时，能不联网就不出站。
 
 | 产品 | 定位 |
 |------|------|
